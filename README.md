@@ -1,4 +1,4 @@
-https://res.cloudinary.com/jorge-tarifa/video/upload/v1652776958/stuff/vecteezy_simple-black-loading-bar-technology-hud-background_2872463_vvoopf.mov
+https://res.cloudinary.com/jorge-tarifa/video/upload/v1652778243/stuff/vecteezy_simple-black-loading-bar-technology-hud-background_2872463_g6mp77.mp4
 
 <h1 align="center">Hi 👋, I'm Jorge Tarifa</h1>
 <h3 align="center">A passionate developer from Colombia</h3>
