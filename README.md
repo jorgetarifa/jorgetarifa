@@ -1,5 +1,5 @@
-https://res.cloudinary.com/jorge-tarifa/video/upload/v1652778243/stuff/vecteezy_simple-black-loading-bar-technology-hud-background_2872463_g6mp77.mp4
-
+ <video src="https://res.cloudinary.com/jorge-tarifa/video/upload/v1652778243/stuff/vecteezy_simple-black-loading-bar-technology-hud-background_2872463_g6mp77.mp4" data-canonical-src="https://res.cloudinary.com/jorge-tarifa/video/upload/v1652778243/stuff/vecteezy_simple-black-loading-bar-technology-hud-background_2872463_g6mp77.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:640px;">
+</video>
 <h1 align="center">Hi 👋, I'm Jorge Tarifa</h1>
 <h3 align="center">A passionate developer from Colombia</h3>
 <img  align="right" alt="coding" width="400" src="https://res.cloudinary.com/jorge-tarifa/image/upload/v1652776602/stuff/coding-gif_uw6qga.gif"/>
