@@ -1,4 +1,4 @@
-<img  align="center" alt="coding" width="400" height="250" src="https://res.cloudinary.com/jorge-tarifa/image/upload/v1652776602/stuff/coding-gif_uw6qga.gif"/>
+<img  align="center" alt="coding" width="300" height="200" src="https://res.cloudinary.com/jorge-tarifa/image/upload/v1652776602/stuff/coding-gif_uw6qga.gif"/>
 
 <h1 align="center">Hi 👋, I'm Jorge Tarifa</h1>
 <h3 align="center">A passionate developer from Colombia</h3>
