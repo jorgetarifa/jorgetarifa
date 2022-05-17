@@ -1,8 +1,8 @@
-[](https://res.cloudinary.com/jorge-tarifa/video/upload/v1652776958/stuff/vecteezy_simple-black-loading-bar-technology-hud-background_2872463_vvoopf.mov "Loading...")
+<img  align="right" alt="coding" width="400" src="https://res.cloudinary.com/jorge-tarifa/video/upload/v1652776958/stuff/vecteezy_simple-black-loading-bar-technology-hud-background_2872463_vvoopf.mov"/>
 
 <h1 align="center">Hi 👋, I'm Jorge Tarifa</h1>
 <h3 align="center">A passionate developer from Colombia</h3>
-<img  align="right" alt="coding" width="400" src="https://res.cloudinary.com/jorge-tarifa/image/upload/v1652776602/stuff/coding-gif_uw6qga.gif" />
+<img  align="right" alt="coding" width="400" src="https://res.cloudinary.com/jorge-tarifa/image/upload/v1652776602/stuff/coding-gif_uw6qga.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jorgetarifa&label=Profile%20views&color=0e75b6&style=flat" alt="jorgetarifa" /> </p>
 
