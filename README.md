@@ -1,5 +1,5 @@
-<video src="https://user-images.githubusercontent.com/169707/126715420-991ad821-9ac8-4b66-b79e-e0966e0f3a89.mp4" controls="autoplay" style="max-width: 730px;">
-</video>
+
+<img  align="right" alt="coding" width="100%" src="https://res.cloudinary.com/jorge-tarifa/image/upload/v1652779008/stuff/Programming_Wallpaper_Programmers_wa_ncfmdq.png" />
 
 <h1 align="center">Hi 👋, I'm Jorge Tarifa</h1>
 <h3 align="center">A passionate developer from Colombia</h3>
