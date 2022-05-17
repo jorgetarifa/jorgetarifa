@@ -1,5 +1,5 @@
 
-<img  align="right" alt="coding" width="100%" height="200" src="https://res.cloudinary.com/jorge-tarifa/image/upload/v1652779008/stuff/Programming_Wallpaper_Programmers_wa_ncfmdq.png" />
+<img  align="right" alt="coding" width="100%" height="320" src="https://res.cloudinary.com/jorge-tarifa/image/upload/v1652779008/stuff/Programming_Wallpaper_Programmers_wa_ncfmdq.png" />
 
 <h1 align="center">Hi 👋, I'm Jorge Tarifa</h1>
 <h3 align="center">A passionate developer from Colombia</h3>
