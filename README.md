@@ -1,5 +1,4 @@
-<video src="https://res.cloudinary.com/jorge-tarifa/video/upload/v1652776958/stuff/vecteezy_simple-black-loading-bar-technology-hud-background_2872463_vvoopf.mov" controls="controls" style="max-width: 730px;">
-</video>
+[!Banner](https://res.cloudinary.com/jorge-tarifa/video/upload/v1652776958/stuff/vecteezy_simple-black-loading-bar-technology-hud-background_2872463_vvoopf.mov "Banner")
 
 <h1 align="center">Hi 👋, I'm Jorge Tarifa</h1>
 <h3 align="center">A passionate developer from Colombia</h3>
