@@ -4,8 +4,7 @@
 <h3 align="center">A passionate developer from Colombia</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jorgetarifa&label=Profile%20views&color=0e75b6&style=flat" alt="jorgetarifa" /> </p>
-[![jorgetarifa's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jorgetarifa)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jorgetarifa&label=Profile%20views&color=0e75b6&style=flat" alt="jorgetarifa" /> </p>[![jorgetarifa's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Tarifa)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
