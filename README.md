@@ -22,6 +22,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jorgetarifa&show_icons=true&theme=merko" alt="jorgetarifa" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jorgetarifa&show_icons=true&locale=en" alt="jorgetarifa" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jorgetarifa&show_icons=true&theme=tokyonight" alt="jorgetarifa" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jorgetarifa&" alt="jorgetarifa" /></p>
