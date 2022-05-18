@@ -5,7 +5,7 @@
 <p><img src="https://wakatime.com/badge/user/761b7293-47b8-4346-9e2e-53e5a125f81c.svg" alt="Total time coded since May 11 2021" /></p>
 
 <h1 align="center">Hi 👋, I'm Jorge Tarifa</h1>
-<h3 align="center">A passionate developer from Colombia</h3>
+
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
