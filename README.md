@@ -1,14 +1,11 @@
 <img  align="left" alt="coding" width="250" height="180" src="https://res.cloudinary.com/jorge-tarifa/image/upload/v1652776602/stuff/coding-gif_uw6qga.gif"/>
 
-<h1 align="center">Hi 👋, I'm Jorge Tarifa</h1>
-<h3 align="center">A passionate developer from Colombia</h3>
-
-
-
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jorgetarifa&label=Profile%20views&color=0e75b6&style=flat" alt="jorgetarifa" /> </p>
 <a href="https://wakatime.com/@761b7293-47b8-4346-9e2e-53e5a125f81c"><img src="https://wakatime.com/badge/user/761b7293-47b8-4346-9e2e-53e5a125f81c.svg" alt="Total time coded since May 11 2021" /></a>
+
+<h1 align="center">Hi 👋, I'm Jorge Tarifa</h1>
+<h3 align="center">A passionate developer from Colombia</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
