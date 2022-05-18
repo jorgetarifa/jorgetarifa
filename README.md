@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Backend side**
 
-- 🌱 I’m currently learning **Typescript, Hapi.js and MongoDB.**
+- 🌱 I’m currently learning **Typescript, Hapi.js,JWT,Docker and MongoDB.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
