@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Typescript, Hapi.js, JWT ,Docker and MongoDB.**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
