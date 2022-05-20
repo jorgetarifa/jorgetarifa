@@ -2,7 +2,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jorgetarifa&label=Profile%20views&color=0e75b6&style=flat" alt="jorgetarifa" /> </p>
-<p><img src="https://wakatime.com/badge/user/761b7293-47b8-4346-9e2e-53e5a125f81c.svg" alt="Total time coded since May 11 2021" /></p>
+
 
 <h1 align="center">Hi 👋, I'm Jorge Tarifa</h1>
 
