@@ -1,7 +1,7 @@
 <img  align="left" alt="coding" width="250" height="180" src="https://res.cloudinary.com/jorge-tarifa/image/upload/v1652776602/stuff/coding-gif_uw6qga.gif"/>
-<iframe src="https://giphy.com/embed/26tn33aiTi1jkl6H6" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6">via GIPHY</a></p>
 
 
+<img  align="left" alt="coding" width="250" height="180" src="[https://res.cloudinary.com/jorge-tarifa/image/upload/v1652776602/stuff/coding-gif_uw6qga.gif](https://giphy.com/embed/26tn33aiTi1jkl6H6)"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jorgetarifa&label=Profile%20views&color=0e75b6&style=flat" alt="jorgetarifa" /> </p>
 
 
